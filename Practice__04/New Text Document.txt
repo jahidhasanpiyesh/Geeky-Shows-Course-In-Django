@@ -1,0 +1,4 @@
+----------------3Type Problem Fixing -------------
+1) include(module.namespace=None),
+2) include(pattern_list),
+3) include((pattern_list_app_namespace),namespace=None).
